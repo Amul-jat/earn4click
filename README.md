@@ -1,4 +1,4 @@
-# Droplink-bot 🔥
+# Earn4Click-bot 🔥
 
 Make short link by using Earn4click
 
