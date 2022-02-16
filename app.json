@@ -1,12 +1,12 @@
 {
-    "name": "Droplink",
+    "name": "Earn4Click",
     "description": "Telegram's best ALL-In-One Multi Purpose RoBot. Create your Fork now.",
     "keywords": [
         "telegram",
-        "droplink"
+        "Earn4click"
     ],
-    "website": "https://github.com/Amul-jat/Droplink",
-    "repository": "https://github.com/Amul-jat/Droplink",
+    "website": "https://github.com/Amul-jat/earn4click",
+    "repository": "https://github.com/Amul-jat/earn4click",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
@@ -30,7 +30,7 @@
         },
         "HOWTO": {
             "description": "Your 'How to Download from Droplink' video link",
-            "value": "https://youtu.be/x5VDDVO6xi0"
+            "value": "https://youtu.be/7AvLkGx31_A"
         }
     },
     "addons": [],
