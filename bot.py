@@ -132,7 +132,7 @@ async def addFooter(str):
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 __#SavitaBhabhi #ComicVideo #Savita #Hindi #Sexy_voice #Kirtu #Savita_Bhabhi #Velamma #Crazydad #Momshelp #incest__
 
-🔅How to Download -""" + HOWTO + """\n
+🔅How to Download - https://youtu.be/7AvLkGx31_A \n
 📣 Provide By @"""+ CHANNEL + """
 __🔊For all  Direct Comics folder lifetime Membership msg me on @Kamdev07 or Join- @vip_comics__"""
     return str + footer
