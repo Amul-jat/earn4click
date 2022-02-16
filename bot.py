@@ -40,7 +40,7 @@ async def start(bot, message):
 async def start(bot, message):
     await message.reply(
         f"**Hey, {message.chat.first_name}!**\n\n"
-        "**please contact me on @kamdev07 or for more join @pdisk_Admins**")
+        "**please contact me on @kamdev07 or for more join @Doodstream_Admins**")
     
 @bot.on_message(filters.text & filters.private)
 async def pdisk_uploader(bot, message):
@@ -79,7 +79,7 @@ async def pdisk_up(link):
         async with aiohttp.ClientSession() as session:
             async with session.get(url, params=params, raise_for_status=True) as response:
                 data = await response.json()
-                v_url = """🔘__Episode__ - \nEn👉 """ + data["shortenedUrl"] + """\n"""
+                v_url = data["shortenedUrl"] + """\n"""
     else:
         v_url = link
         
