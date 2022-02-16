@@ -13,7 +13,7 @@ Make short link by using Earn4click
 - `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
 - `API_ID`: Get this value from [telgram.org](https://my.telegram.org/apps) Or By Telegram Bot [TgApiextractorBot](https://telegram.dog/TgApiextractorBot)
 - `API_HASH`: Get this value from [telgram.org](https://my.telegram.org/apps)
-- `API_KEY`: Create [Earn4Click](https://earn4clicks.in) account then get this value from [Droplink API](https://earn4clicks.in/member/tools/api)
+- `API_KEY`: Create [Earn4Click](https://earn4clicks.in) account then get this value from [Earn4Cluck API](https://earn4clicks.in/member/tools/api)
 - `HOWTO`: Your "How to Download from Droplink" video link
 
 ##### Credit
