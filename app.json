@@ -1,0 +1,48 @@
+{
+    "name": "Droplink",
+    "description": "Telegram's best ALL-In-One Multi Purpose RoBot. Create your Fork now.",
+    "keywords": [
+        "telegram",
+        "droplink"
+    ],
+    "website": "https://github.com/Amul-jat/Droplink",
+    "repository": "https://github.com/Amul-jat/Droplink",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your bot token (must add)",
+            "value": ""
+        },
+        "API_ID": {
+            "description": "Get this value from https://my.telegram.org",
+            "value": "7626510"
+        },
+        "API_HASH": {
+            "description": "Get this value from https://my.telegram.org",
+            "value": "ca991bfa07a6ac45e6d5f374c84ab05c"
+        },
+        "API_KEY": {
+            "description": "https://droplink.co/member/tools/api",
+            "value": "8e41249f9706af6c5bf2a1acb1c0b5af3c6ddf84"
+        },
+        "CHANNEL": {
+            "description": "Enter your telegram channel Username (must change and without @)",
+            "value": "Savita_Bhabhi_Comics_Free4u"
+        },
+        "HOWTO": {
+            "description": "Your 'How to Download from Droplink' video link",
+            "value": "https://youtu.be/x5VDDVO6xi0"
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
